@@ -1,0 +1,14 @@
+{"name":"怪物","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"1PeTh2z7nsNr5jJY"}
+{"name":"前威尔村支线任务","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"2xXqBMVwLozioOC8"}
+{"_id":"II7Jvc8oruyuemHg","name":"作者的话","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{}}
+{"name":"魔法物品","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"Mzfm9gY4TD0abDat"}
+{"name":"冒险开始","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"RVXbfuEskvA8reAz"}
+{"_id":"bIXajDjrPSjSsKy3","name":"魔法装备备注","type":"JournalEntry","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"前威尔村(建议暗骰)","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"c4xWu2rqNsojY3rS"}
+{"name":"NPC","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"cUGc7gVoGwkTQr5f"}
+{"name":"PC","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"gXsRQfnliIZ0nALo"}
+{"name":"杂物","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"htXQSRQqqvIYotyv"}
+{"_id":"kJdHouOpqTGffmnP","name":"堡垒","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"前威尔村","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"t5RDQAILV2guPIxl"}
+{"name":"尾声","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"ytEwiWRHYSTK8VP2"}
+{"name":"准备工作","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"zpfMfkGKvtfLXp19"}
